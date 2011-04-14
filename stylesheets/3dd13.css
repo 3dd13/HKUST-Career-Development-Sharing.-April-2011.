@@ -1,0 +1,13 @@
+.overview .slide:hover {
+	box-shadow: 10px 10px 5px #888;	
+}
+
+#footer {
+	position:   absolute;
+	bottom:     5px;
+	font-size:  0.3em;
+	
+	margin:     0 auto;	
+	width:      100%;
+	text-align: center;	
+}
