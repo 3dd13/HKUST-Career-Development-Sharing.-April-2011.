@@ -2,12 +2,33 @@
 	box-shadow: 10px 10px 5px #888;	
 }
 
+.overview #footer {
+	display:none;
+}
+
 #footer {
 	position:   absolute;
 	bottom:     5px;
 	font-size:  0.3em;
 	
 	margin:     0 auto;	
+	height:     50px;
 	width:      100%;
-	text-align: center;	
+}
+
+#footer-wrapper {
+  margin: 0 auto;
+  width: 300px;
+}
+
+#hotkeys, #built-by {
+	text-align: left;	
+  float: left;
+}
+#hotkeys li, #built-by li {
+	list-style: none;
+}
+
+h1 {
+	font-weight: bold;
 }

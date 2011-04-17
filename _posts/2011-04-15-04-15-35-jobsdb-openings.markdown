@@ -1,0 +1,12 @@
+JobsDB openings (as of April 2011)
+---------
+
+* .Net
+* Java / J2EE
+* Server
+* Database
+* Consultancy
+* Manager
+* Others
+
+Let's have a look at jobsdb now

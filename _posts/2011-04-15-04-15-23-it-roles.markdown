@@ -1,0 +1,11 @@
+IT roles
+---------
+
+* auditor / manager
+* architect
+* sales / pre-sales
+* analyst / consultants
+* coder
+* server / DB admin
+* designer
+* others: UX / security ... (miz)
