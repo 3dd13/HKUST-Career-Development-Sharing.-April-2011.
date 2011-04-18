@@ -32,3 +32,12 @@
 h1 {
 	font-weight: bold;
 }
+
+.centralize {
+	text-align: center;
+}
+
+.field {
+	margin: 30px 0px;
+	font-size: 1.6em;
+}

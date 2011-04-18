@@ -1,0 +1,3 @@
+<img src="/ideal_job.jpg" title="Ideal Job" height="400px"/>
+
+\* from Mark Curphey HITB keynote

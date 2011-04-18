@@ -1,6 +1,8 @@
 What other graduates are doing
 ---------
 
+Year 2004
+
 * Microsoft
 * PhD
 * Trading
@@ -10,7 +12,9 @@ What other graduates are doing
 * Consultant
 * Coder
 
-MotherApp
-Pancake
-Software House
-Security
+Others
+
+* MotherApp
+* Pancake
+* Software House
+* Security
