@@ -2,6 +2,7 @@
 ---------
 
 * working in [Thought Sauce] (http://thought-sauce.com "Thought Sauce - Agile, Ruby On Rails Consultant")
+* writing Ruby On Rails and mobile apps
 * doing freelances for startups
 * work with RU05 in Barn B
 * prototyping ideas
