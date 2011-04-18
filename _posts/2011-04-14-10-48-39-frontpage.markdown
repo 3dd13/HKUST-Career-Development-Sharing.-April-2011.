@@ -1,19 +1,19 @@
 IT Career in HK
 =========
 
-Career Centre Alumni Sharing 
+Career Centre x Alumni Sharing 
 ---------
 
 
 <div class="centralize">
 
   <div class="field">
-    <div class="label">Venue:</div>
+    <div class="label"><strong>Venue:</strong></div>
     <div class="value">HKUST</div>
   </div>
 
   <div class="field">
-    <div class="label">Date:</div>
+    <div class="label"><strong>Date:</strong></div>
     <div class="value">19th April 2011</div>
   </div>
 

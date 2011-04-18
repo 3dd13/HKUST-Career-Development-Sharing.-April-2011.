@@ -1,9 +1,9 @@
 Promote yourself
 --------
 
-* cover letter and cv
-* on the phone
-* interview
+* cover letter and resume
+* email
 * sit in the front row
 * talk to people
 * web presence
+* preparation for interview

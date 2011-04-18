@@ -2,11 +2,9 @@ Agenda
 ---------
 
 * Me
-* IT in Hong Kong
-* Job Market
-* Company Category
+* What is IT
+* Job Market & IT Company
 * Interview
 * Learning
 * Startups
-* Web Development Nowadays
-* Advises
+* Other Advises

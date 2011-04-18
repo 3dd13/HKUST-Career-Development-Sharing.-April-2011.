@@ -1,7 +1,8 @@
 Store your ideas
 ---------
 
-* Note
+* Paper
+* Notepad.exe
 * Evernote
 * Google Doc
 * Mobile

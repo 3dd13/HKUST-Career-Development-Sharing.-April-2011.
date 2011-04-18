@@ -2,7 +2,8 @@ Learning Languages
 ---------
 
 Japanese
-- HKUSpace
+- Traveling
+- TV drama
 
 English
 - IT Crowd, The Office, Little Britain, Big Bang Theory

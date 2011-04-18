@@ -1,6 +1,7 @@
-Interesting Companies
+Interesting Companies (to me)
 ---------
 
+* Exciting and Useful products
 * Security
 * Startups
-* Charity
+* Charity Projects

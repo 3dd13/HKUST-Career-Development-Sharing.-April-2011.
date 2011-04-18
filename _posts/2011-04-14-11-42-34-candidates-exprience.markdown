@@ -1,11 +1,9 @@
-Some questions for you sitting here
+Who are you ?
 ---------
 
-handed in all homework ?
-did freelance / part time before?
-heard of html5
-did facebook apps ?
-have your own website ?
-use ust mail to look for jobs ? put it in resume ?
-started looking for jobs?
-know what startup is ?
+* handed in all homework ?
+* did freelance / part time before?
+* started looking for jobs?
+* have your own website ?
+* should get third honours ?
+* jobs you expect

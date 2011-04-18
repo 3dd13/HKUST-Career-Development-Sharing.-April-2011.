@@ -8,4 +8,4 @@ IT roles
 * coder
 * server / DB admin
 * designer
-* others: UX / security ... (miz)
+* others: UX / security ...

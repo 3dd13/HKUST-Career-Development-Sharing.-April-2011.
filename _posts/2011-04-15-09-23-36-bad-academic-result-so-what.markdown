@@ -1,2 +1,2 @@
-Bad Academic Result ? so what !!
+Bad Academic Result ?
 ---------
