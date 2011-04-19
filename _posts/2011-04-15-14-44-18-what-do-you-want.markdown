@@ -1,6 +1,6 @@
 What do you want
 ---------
 
-prioritize options
+Based on your interest, prioritize options
 * long term
 * short term

@@ -1,6 +1,5 @@
 Enrich your life
 ---------
 
-* Talk to people
+* Talk to people <br/> ( try talking to me first )
 * Read
-* Do not restricted by company needs

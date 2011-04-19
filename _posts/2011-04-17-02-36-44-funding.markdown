@@ -1,4 +1,4 @@
 Funding
 ---------
 
-* prefer bootstrapping
+* I prefer bootstrapping

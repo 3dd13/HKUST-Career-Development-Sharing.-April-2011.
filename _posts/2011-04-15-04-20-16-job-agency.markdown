@@ -1,2 +1,7 @@
 Job Agency
 ---------
+
+* help companies to filter candidates
+* care about their commissions
+* don't know IT
+* filter candidates by keywords

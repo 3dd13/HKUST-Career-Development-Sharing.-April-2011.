@@ -6,4 +6,3 @@ Promote yourself
 * sit in the front row
 * talk to people
 * web presence
-* preparation for interview

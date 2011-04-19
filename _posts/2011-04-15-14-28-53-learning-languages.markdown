@@ -1,10 +1,10 @@
-Learning Languages
+e.g. Learning Languages
 ---------
 
-Japanese
-- Traveling
-- TV drama
+I.<br/>
+I like traveling and Japanese Drama, <br/> so I went to HKUSpace to learn Japanese
 
-English
-- IT Crowd, The Office, Little Britain, Big Bang Theory
-- Read english books
+II.<br/>
+I would like to learn English, <br/> so I 
+- watched IT Crowd, The Office, Little Britain, Big Bang Theory
+- read English detective novels

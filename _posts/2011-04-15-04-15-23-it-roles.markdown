@@ -1,4 +1,4 @@
-IT roles
+Common IT roles
 ---------
 
 * auditor / manager
@@ -6,6 +6,6 @@ IT roles
 * sales / pre-sales
 * analyst / consultants
 * coder
-* server / DB admin
+* server / network / database admins
 * designer
-* others: UX / security ...
+* other expertises: UX / security ...

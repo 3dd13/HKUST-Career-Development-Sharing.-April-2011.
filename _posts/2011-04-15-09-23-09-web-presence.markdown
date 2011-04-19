@@ -2,8 +2,7 @@ Web Presence
 ---------
 
 * Personal Website / Blog
-* Online Profile
-* Your Product
-* Open Source
-* Participated in Q & A
-* Write something about this sharing
+* Personal Email Domain
+* Online Profile (e.g. LinkedIn)
+* Your Projects (e.g. Open Source, FYP)
+* Participated in Q & A websites

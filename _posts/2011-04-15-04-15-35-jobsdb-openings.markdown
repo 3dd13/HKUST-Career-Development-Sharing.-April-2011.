@@ -1,12 +1,13 @@
-JobsDB openings (as of April 2011)
+Openings (Mar to Apr 2011)
 ---------
 
-* .Net
-* Java / J2EE
-* Server
-* Database
-* Consultancy
-* Manager
-* Others
-
 Let's have a look at jobsdb now
+
+* .net (~ 500)
+* j2ee (~ 500)
+* c++ (~300)
+* cissp (~300)
+* ruby (~30)
+* fresh graduate (~500)
+
+I would say the market is quite good now

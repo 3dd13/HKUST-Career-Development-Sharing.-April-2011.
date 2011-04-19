@@ -8,25 +8,44 @@
 
 #footer {
 	position:   absolute;
-	bottom:     5px;
-	font-size:  0.3em;
+	bottom:     -40px;
+	right:      0px;
+}
+
+.footer-menus {
+	height: 60px;
+	width: 120px;
 	
-	margin:     0 auto;	
-	height:     50px;
-	width:      100%;
-}
-
-#footer-wrapper {
-  margin: 0 auto;
-  width: 300px;
-}
-
-#hotkeys, #built-by {
-	text-align: left;	
+	padding: 0;
+	margin: 0;
+	
+	position: relative;
   float: left;
+  text-align: center;
+
+	border: 3px solid #369;
+	border-radius: 15px 15px 0 0 ;
+	-moz-border-radius: 15px 15px 0 0 ;
+	-webkit-border-radius: 15px 15px 0 0 ;
+		
+  opacity: 0.45;
+
+  overflow: hidden;
 }
-#hotkeys li, #built-by li {
+
+.footer-menus ul {
+	padding: 0;
+	margin: 0;
+}
+
+.footer-menus li {
 	list-style: none;
+  font-size: 12px;
+}
+
+.footer-menus h2 {
+	margin-bottom: 2px;	
+	font-size: 16px;
 }
 
 h1 {

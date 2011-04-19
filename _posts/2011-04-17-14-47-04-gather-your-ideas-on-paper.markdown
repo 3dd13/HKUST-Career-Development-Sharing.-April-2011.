@@ -1,4 +1,4 @@
-Store your ideas
+Store your ideas anytime anywhere
 ---------
 
 * Paper

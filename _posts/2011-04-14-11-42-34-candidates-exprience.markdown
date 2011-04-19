@@ -1,9 +1,7 @@
 Who are you ?
 ---------
 
-* handed in all homework ?
-* did freelance / part time before?
-* started looking for jobs?
+* started looking for jobs ?
+* did freelance / part time before ?
 * have your own website ?
-* should get third honours ?
-* jobs you expect
+* jobs you prefer ?
