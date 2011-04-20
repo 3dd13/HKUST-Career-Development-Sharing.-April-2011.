@@ -8,12 +8,12 @@
 
 #footer {
 	position:   absolute;
-	bottom:     -40px;
+	bottom:     -50px;
 	right:      0px;
 }
 
 .footer-menus {
-	height: 60px;
+	height: 70px;
 	width: 120px;
 	
 	padding: 0;
@@ -63,4 +63,26 @@ h1, h2 {
 .field {
 	margin: 30px 0px;
 	font-size: 1.6em;
+}
+
+.like-buttons {
+	margin-top: 3px;
+}
+
+.share-buttons {
+	margin-top: 8px;
+}
+
+.share-buttons a {
+	text-decoration: none;
+	color: #000;
+  font-size: 14px;
+	
+	border: 2px solid #369;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 2px 10px;
+	
+	background-color: #ACE;
 }

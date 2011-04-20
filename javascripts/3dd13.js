@@ -3,7 +3,7 @@ $(document).ready(function() {
 		function() {
 			$(this).animate({
         opacity: 1,				
-				marginBottom: '40px',
+				marginBottom: '50px',
 			}, 500);
 		},
 		function() {
